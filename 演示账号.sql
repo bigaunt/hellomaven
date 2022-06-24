@@ -1,0 +1,2 @@
+INSERT INTO "演示账号"("prod_inst_id", "dnn_name", "cp_ip_pool_id", "upf_name", "ip_protocol_stack", "ip_address", "net_mask", "ip_pool_code", "create_time", "oper_type") VALUES ('911637114467', 'baosteelagv.sh.iot', NULL, 'UPF1', 'ipv4', '170.4.0.0', '255.255.255.0', '0', NULL, NULL);
+INSERT INTO "演示账号"("prod_inst_id", "dnn_name", "cp_ip_pool_id", "upf_name", "ip_protocol_stack", "ip_address", "net_mask", "ip_pool_code", "create_time", "oper_type") VALUES ('911637114467', 'baosteelagv.sh.iot', NULL, 'UPF2', 'ipv4', '170.4.0.0', '255.255.255.0', '0', NULL, NULL);
